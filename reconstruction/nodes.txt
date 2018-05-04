@@ -1,0 +1,3 @@
+multiplicity	load	performance	local	executable
+2	250	100	false	ssh -p 26 localhost ~/hexclient
+2	250	100	false	ssh -p 26 localhost ~/hexclient
