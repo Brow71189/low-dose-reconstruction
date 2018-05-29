@@ -15,7 +15,7 @@ Requirements
 ------------
 * Python >= 3.5 (lower versions might work but are untested)
 * numpy
-* OpenCV-Python
+* OpenCV-Python (for Linux you can install it by running `sudo apt install python3-opencv` in a terminal)
 * ElectronCounting (Download and Documentation at https://github.com/Brow71189/ElectronCounting)
 
 
